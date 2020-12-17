@@ -13,3 +13,6 @@
 [submodule "lab5"]
 	path = lab5
 	url = https://github.com/Aramismas/lab5.git
+[submodule "lab6"]
+	path = lab6
+	url = https://github.com/Aramismas/lab6.git
