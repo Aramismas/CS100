@@ -22,3 +22,6 @@
 [submodule "lab8"]
 	path = lab8
 	url = https://github.com/Aramismas/lab8.git
+[submodule "FinalProject"]
+	path = FinalProject
+	url = https://github.com/Aramismas/FinalProject.git
